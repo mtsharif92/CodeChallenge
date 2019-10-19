@@ -1,0 +1,309 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2073ef45-f199-499d-80a9-19ea7515b521" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../CodeChallenge/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeChallenge/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeChallenge/Generic/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeChallenge/Generic/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeChallenge/Generic/src/main/java/base/MainAPI.java" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeChallenge/Generic/src/main/java/base/MainAPI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeChallenge/Generic/src/main/java/pages/Login.java" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeChallenge/Generic/src/main/java/pages/Login.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeChallenge/Generic/src/test/java/TestLogin.java" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeChallenge/Generic/src/test/java/TestLogin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeChallenge/NewEgg/NewEgg.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeChallenge/NewEgg/NewEgg.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeChallenge/NewEgg/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeChallenge/NewEgg/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeChallenge/NewEgg/src/main/java/pages/Login.java" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeChallenge/NewEgg/src/main/java/pages/Login.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeChallenge/NewEgg/src/test/java/TestLogin.java" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeChallenge/NewEgg/src/test/java/TestLogin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GenericPractice/src/app/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/../GenericPractice/src/app/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GenericPractice/src/app/Classroom.java" beforeDir="false" afterPath="$PROJECT_DIR$/../GenericPractice/src/app/Classroom.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GenericPractice/src/app/Freshman.java" beforeDir="false" afterPath="$PROJECT_DIR$/../GenericPractice/src/app/Freshman.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GenericPractice/src/app/Junior.java" beforeDir="false" afterPath="$PROJECT_DIR$/../GenericPractice/src/app/Junior.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GenericPractice/src/app/Senior.java" beforeDir="false" afterPath="$PROJECT_DIR$/../GenericPractice/src/app/Senior.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GenericPractice/src/app/Sophomore.java" beforeDir="false" afterPath="$PROJECT_DIR$/../GenericPractice/src/app/Sophomore.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GenericPractice/src/app/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/../GenericPractice/src/app/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GenericPractice/src/main/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../GenericPractice/src/main/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MobileAutomation/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MobileAutomation/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MobileAutomation/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MobileAutomation/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MobileAutomation/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MobileAutomation/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MobileAutomation/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MobileAutomation/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MobileAutomation/Generic/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MobileAutomation/Generic/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MobileAutomation/Generic/src/main/java/common/MobileAPI.java" beforeDir="false" afterPath="$PROJECT_DIR$/../MobileAutomation/Generic/src/main/java/common/MobileAPI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MobileAutomation/Generic/src/main/java/databases/ConnectToSqlDB.java" beforeDir="false" afterPath="$PROJECT_DIR$/../MobileAutomation/Generic/src/main/java/databases/ConnectToSqlDB.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MobileAutomation/Generic/src/main/java/reporting/ApplicationLog.java" beforeDir="false" afterPath="$PROJECT_DIR$/../MobileAutomation/Generic/src/main/java/reporting/ApplicationLog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MobileAutomation/Generic/target/Generic-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../MobileAutomation/Generic/target/Generic-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MobileAutomation/Generic/target/classes/common/MobileAPI.class" beforeDir="false" afterPath="$PROJECT_DIR$/../MobileAutomation/Generic/target/classes/common/MobileAPI.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MobileAutomation/Generic/target/classes/databases/ConnectToSqlDB.class" beforeDir="false" afterPath="$PROJECT_DIR$/../MobileAutomation/Generic/target/classes/databases/ConnectToSqlDB.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MobileAutomation/NYP/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MobileAutomation/NYP/src/app/nyp.apk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MobileAutomation/NYP/src/main/java/home/MainPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MobileAutomation/NYP/src/main/java/home/fashionPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MobileAutomation/NYP/src/test/java/articles/ArticleTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MobileAutomation/NYP/src/test/java/testHome/TestFashionPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MobileAutomation/NYP/src/test/resources/NYPTestRunner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MobileAutomation/NYP/target/NYP-1.0-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MobileAutomation/NYP/target/classes/home/MainPage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MobileAutomation/NYP/target/classes/home/fashionPage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MobileAutomation/NYP/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MobileAutomation/NYP/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MobileAutomation/NYP/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MobileAutomation/NYP/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MobileAutomation/NYP/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MobileAutomation/NYP/target/test-classes/NYPTestRunner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MobileAutomation/NYP/target/test-classes/articles/ArticleTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MobileAutomation/NYP/target/test-classes/testHome/TestFashionPage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MobileAutomation/UICatalog/src/test/resources/cataLogAppTestRunner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MobileAutomation/UICatalog/src/test/resources/cataLogAppTestRunner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MobileAutomation/eBay/src/main/java/HomePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/../MobileAutomation/eBay/src/main/java/HomePage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MobileAutomation/eBay/src/test/java/TestHomePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/../MobileAutomation/eBay/src/test/java/TestHomePage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MobileAutomation/eBay/src/test/resources/eBayTestRunner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MobileAutomation/eBay/src/test/resources/eBayTestRunner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MobileAutomation/eBay/target/classes/HomePage.class" beforeDir="false" afterPath="$PROJECT_DIR$/../MobileAutomation/eBay/target/classes/HomePage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MobileAutomation/eBay/target/eBay-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../MobileAutomation/eBay/target/eBay-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MobileAutomation/eBay/target/test-classes/TestHomePage.class" beforeDir="false" afterPath="$PROJECT_DIR$/../MobileAutomation/eBay/target/test-classes/TestHomePage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MobileAutomation/eBay/target/test-classes/eBayTestRunner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MobileAutomation/eBay/target/test-classes/eBayTestRunner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MobileAutomation/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MobileAutomation/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NewEgg/src/main/java/Common.java" beforeDir="false" afterPath="$PROJECT_DIR$/../NewEgg/src/main/java/Common.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RestAssured/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../RestAssured/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RestAssured/Twitter/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../RestAssured/Twitter/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RestAssured/Twitter/src/main/config/auth.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../RestAssured/Twitter/src/main/config/auth.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RestAssured/Twitter/src/main/java/client/BaseTwitterClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/../RestAssured/Twitter/src/main/java/client/BaseTwitterClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RestAssured/Twitter/src/main/java/client/TweetsClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/../RestAssured/Twitter/src/main/java/client/TweetsClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RestAssured/Twitter/src/test/java/api/tests/StatusTweetsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../RestAssured/Twitter/src/test/java/api/tests/StatusTweetsTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prat/src/ppp/Practice1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../prat/src/ppp/Practice1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prat/src/ppp/Practice3.java" beforeDir="false" afterPath="$PROJECT_DIR$/../prat/src/ppp/Practice3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prat/src/ppp/practice2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../prat/src/ppp/practice2.java" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/NewEgg/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="901">
+              <caret line="53" column="19" selection-start-line="53" selection-start-column="19" selection-end-line="53" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/NewEgg/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="816">
+              <caret line="48" column="12" selection-start-line="48" selection-start-column="12" selection-end-line="48" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/NewEgg/src/main/java/MainAPI.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="12" column="143" selection-start-line="12" selection-start-column="143" selection-end-line="12" selection-end-column="143" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/NewEgg/pom.xml" />
+        <option value="$PROJECT_DIR$/NewEgg/src/main/java/MainAPI.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="NewEgg" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="515" />
+    <option name="width" value="760" />
+    <option name="height" value="800" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="CognigentCodeChallenge" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CognigentCodeChallenge" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CognigentCodeChallenge" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CognigentCodeChallenge" type="462c0819:PsiDirectoryNode" />
+              <item name="NewEgg" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CognigentCodeChallenge" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CognigentCodeChallenge" type="462c0819:PsiDirectoryNode" />
+              <item name="NewEgg" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CognigentCodeChallenge" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CognigentCodeChallenge" type="462c0819:PsiDirectoryNode" />
+              <item name="NewEgg" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CognigentCodeChallenge" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CognigentCodeChallenge" type="462c0819:PsiDirectoryNode" />
+              <item name="NewEgg" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CognigentCodeChallenge" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CognigentCodeChallenge" type="462c0819:PsiDirectoryNode" />
+              <item name="NewEgg" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1571520352827" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\mdths\IdeaProjects\CognigentCodeChallenge\NewEgg\driver" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2073ef45-f199-499d-80a9-19ea7515b521" name="Default Changelist" comment="" />
+      <created>1571518963268</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1571518963268</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <layout>
+      <window_info id="Image Layers" />
+      <window_info id="Designer" />
+      <window_info id="UI Designer" />
+      <window_info id="Capture Tool" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.24966443" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.3286119" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.1713881" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Maven" visible="true" weight="0.13691275" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="901">
+          <caret line="53" column="19" selection-start-line="53" selection-start-column="19" selection-end-line="53" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NewEgg/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="816">
+          <caret line="48" column="12" selection-start-line="48" selection-start-column="12" selection-end-line="48" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NewEgg/src/main/java/MainAPI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="143" selection-start-line="12" selection-start-column="143" selection-end-line="12" selection-end-column="143" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
