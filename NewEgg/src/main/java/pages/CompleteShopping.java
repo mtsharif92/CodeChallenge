@@ -112,6 +112,9 @@ public class CompleteShopping extends MainAPI {
         continueShopping.click();
         searchbox.sendKeys("INSTEON Thermostat (2441TH)");
         clickSearchButton.click();
+
+        // Verified INSTEON Thermostat (2441TH) is not found in the market Place
+
         System.out.println(driver.getTitle());
         Assert.assertTrue(driver.getTitle().equals("INSTEON Thermostat (2441TH) - Newegg.com"));
         System.out.println(errorMessage.getText());
