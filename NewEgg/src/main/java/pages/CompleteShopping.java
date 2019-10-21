@@ -8,7 +8,7 @@ import org.openqa.selenium.interactions.Actions;
 import org.openqa.selenium.support.FindBy;
 import org.testng.Assert;
 
-public class Login extends MainAPI {
+public class CompleteShopping extends MainAPI {
 
     @FindBy(xpath = "//a[@class='top-nav-tab-name logout']")
     WebElement login;
@@ -45,6 +45,35 @@ public class Login extends MainAPI {
     @FindBy(xpath = "//span[@class='result-message-error']")
     WebElement errorMessage;
 
+    //CART ELEMENS
+    @FindBy(xpath = "//i[@class='top-nav-tab-icon fa fa-shopping-cart']")
+    WebElement cart;
+    @FindBy(xpath = "//table[2]//tbody[1]//tr[1]//td[3]//div[2]//button[2]")
+    WebElement remove;
+    @FindBy(xpath = "//td[@class='grand-total']//span[@class='amount'][contains(text(),'$149.99')] ")
+    WebElement totalCost;
+
+    // Quantity Box Elements
+    @FindBy(xpath = "//input[@id='ITEM.9SIA12KA163933.1.0.0']")
+    WebElement quantityBox;
+    @FindBy(xpath = "//td[@class='grand-total']//span[@class='amount'][contains(text(),'$599.96')]")
+    WebElement adjustedCost;
+
+    //Checkout Elements
+    @FindBy(xpath = "//a[@class='button button-primary has-icon-right']")
+    WebElement checkoutButton;
+    @FindBy(xpath = "//div[@class='additional-info-groupbox']//a[1]")
+    WebElement billing;
+
+    //Log Out Elements
+    @FindBy(xpath = "//a[@class='header-logo-img']//img")
+    WebElement newEgglogo;
+    @FindBy(xpath = "//ins[contains(text(),'My Account')]")
+    WebElement myAccount;
+    @FindBy(xpath = "//a[contains(text(),'Logout')]")
+    WebElement logout;
+
+
 
     public void loginAccount (){
         login.click();
@@ -54,7 +83,7 @@ public class Login extends MainAPI {
 
     }
 
-    public void ItemsAddToTheCart() throws InterruptedException {
+    public void ItemsAddToTheCart() {
 
         searchbox.sendKeys("Micro SD Card");
         clickSearchButton.click();
@@ -83,15 +112,48 @@ public class Login extends MainAPI {
         continueShopping.click();
         searchbox.sendKeys("INSTEON Thermostat (2441TH)");
         clickSearchButton.click();
-        Assert.assertTrue(driver.getTitle().equals("INSTEON Thermostat (2441TH) - Newegg.com"));
         System.out.println(driver.getTitle());
+        Assert.assertTrue(driver.getTitle().equals("INSTEON Thermostat (2441TH) - Newegg.com"));
         System.out.println(errorMessage.getText());
         Assert.assertTrue(errorMessage.getText().equals("We have found 0 items that match \"INSTEON Thermostat (2441TH)\"."));
+        System.out.println("There is no such Item in this name");
+
+    }
+
+    public void removeItemFromCart(){
+
+        cart.click();
+        remove.click();
+        // Validate amount after remove Items
+        Assert.assertTrue(totalCost.getText().equals("$149.99"));
+        System.out.println(totalCost.getText());
+        System.out.println("Total Updated Cost is = $149.99");
+
+    }
+    public void updateQuantity(){
+
+        quantityBox.sendKeys(Keys.BACK_SPACE);
+        quantityBox.sendKeys("4");
+        quantityBox.sendKeys(Keys.ENTER);
+        Assert.assertTrue(adjustedCost.getText().equals("$599.96"));
+        System.out.println("Total Updated Cost is = $599.96");
+
+    }
+    public void checkout(){
+        checkoutButton.click();
+        billing.click();
+        billing.getText();
+        System.out.println(billing.getText());
 
 
+    }
 
-
-
+    public void logout(){
+        newEgglogo.click();
+        myAccount.click();
+        logout.click();
+        System.out.println(driver.getTitle());
+        Assert.assertTrue(driver.getTitle().equals("Newegg.com - Newegg shopping upgraded ™"));
 
     }
 

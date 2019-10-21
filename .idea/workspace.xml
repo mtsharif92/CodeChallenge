@@ -2,22 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2073ef45-f199-499d-80a9-19ea7515b521" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NewEgg/src/main/java/pages/Login.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NewEgg/src/test/java/TestLogin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NewEgg/src/test/resources/NewEggRestRunner" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../CodeChallenge/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeChallenge/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../CodeChallenge/Generic/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeChallenge/Generic/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../CodeChallenge/Generic/src/main/java/base/MainAPI.java" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeChallenge/Generic/src/main/java/base/MainAPI.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../CodeChallenge/Generic/src/main/java/pages/Login.java" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeChallenge/Generic/src/main/java/pages/Login.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../CodeChallenge/Generic/src/test/java/TestLogin.java" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeChallenge/Generic/src/test/java/TestLogin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeChallenge/Generic/src/test/resources/NewEggTestRunner" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeChallenge/Generic/src/test/resources/NewEggTestRunner" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../CodeChallenge/NewEgg/NewEgg.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeChallenge/NewEgg/NewEgg.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../CodeChallenge/NewEgg/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeChallenge/NewEgg/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../CodeChallenge/NewEgg/src/main/java/pages/Login.java" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeChallenge/NewEgg/src/main/java/pages/Login.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../CodeChallenge/NewEgg/src/test/java/TestLogin.java" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeChallenge/NewEgg/src/test/java/TestLogin.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NewEgg/src/main/java/MainAPI.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NewEgg/src/main/java/MainAPI.java" beforeDir="false" afterPath="$PROJECT_DIR$/NewEgg/src/main/java/base/MainAPI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NewEgg/src/main/java/pages/Login.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NewEgg/src/test/java/TestLogin.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NewEgg/target/classes/pages/Login.class" beforeDir="false" afterPath="$PROJECT_DIR$/NewEgg/target/classes/pages/Login.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NewEgg/target/test-classes/TestLogin.class" beforeDir="false" afterPath="$PROJECT_DIR$/NewEgg/target/test-classes/TestLogin.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../GenericPractice/src/app/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/../GenericPractice/src/app/App.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../GenericPractice/src/app/Classroom.java" beforeDir="false" afterPath="$PROJECT_DIR$/../GenericPractice/src/app/Classroom.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../GenericPractice/src/app/Freshman.java" beforeDir="false" afterPath="$PROJECT_DIR$/../GenericPractice/src/app/Freshman.java" afterDir="false" />
@@ -64,7 +64,6 @@
       <change beforePath="$PROJECT_DIR$/../MobileAutomation/eBay/target/test-classes/TestHomePage.class" beforeDir="false" afterPath="$PROJECT_DIR$/../MobileAutomation/eBay/target/test-classes/TestHomePage.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../MobileAutomation/eBay/target/test-classes/eBayTestRunner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MobileAutomation/eBay/target/test-classes/eBayTestRunner.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../MobileAutomation/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MobileAutomation/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MobileAutomationJanuary2019/NYP/src/main/java/home/fashionPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/../MobileAutomationJanuary2019/NYP/src/main/java/home/fashionPage.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../NewEgg/src/main/java/Common.java" beforeDir="false" afterPath="$PROJECT_DIR$/../NewEgg/src/main/java/Common.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../RestAssured/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../RestAssured/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../RestAssured/Twitter/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../RestAssured/Twitter/pom.xml" afterDir="false" />
@@ -108,8 +107,20 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/NewEgg/src/main/java/base/MainAPI.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="166">
-              <caret line="24" column="5" lean-forward="true" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
+            <state relative-caret-position="301">
+              <caret line="24" column="5" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/NewEgg/src/test/java/TestCompleteShopping.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="205">
+              <caret line="31" column="33" lean-forward="true" selection-start-line="31" selection-start-column="33" selection-end-line="31" selection-end-column="33" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -118,24 +129,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/NewEgg/src/test/java/TestLogin.java">
+        <entry file="file://$PROJECT_DIR$/NewEgg/src/main/java/pages/CompleteShopping.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="233">
-              <caret line="25" selection-start-line="25" selection-end-line="25" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#280#281#0" expanded="true" />
-                <element signature="e#347#348#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/NewEgg/src/main/java/pages/Login.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="253">
-              <caret line="81" lean-forward="true" selection-start-line="81" selection-end-line="81" />
+            <state relative-caret-position="395">
+              <caret line="152" column="26" selection-start-line="152" selection-start-column="26" selection-end-line="152" selection-end-column="26" />
             </state>
           </provider>
         </entry>
@@ -161,8 +158,11 @@
         <option value="$PROJECT_DIR$/NewEgg/src/main/java/Login.java" />
         <option value="$PROJECT_DIR$/NewEgg/src/main/java/base/Pages.java" />
         <option value="$PROJECT_DIR$/NewEgg/src/main/java/base/MainAPI.java" />
-        <option value="$PROJECT_DIR$/NewEgg/src/test/java/TestLogin.java" />
         <option value="$PROJECT_DIR$/NewEgg/src/main/java/pages/Login.java" />
+        <option value="$PROJECT_DIR$/NewEgg/src/test/java/TestLogin.java" />
+        <option value="$PROJECT_DIR$/NewEgg/src/test/resources/NewEggRestRunner" />
+        <option value="$PROJECT_DIR$/NewEgg/src/main/java/pages/CompleteShopping.java" />
+        <option value="$PROJECT_DIR$/NewEgg/src/test/java/TestCompleteShopping.java" />
       </list>
     </option>
   </component>
@@ -188,8 +188,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -202,59 +200,19 @@
               <item name="CognigentCodeChallenge" type="462c0819:PsiDirectoryNode" />
               <item name="NewEgg" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="CognigentCodeChallenge" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CognigentCodeChallenge" type="462c0819:PsiDirectoryNode" />
-              <item name="NewEgg" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CognigentCodeChallenge" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CognigentCodeChallenge" type="462c0819:PsiDirectoryNode" />
-              <item name="NewEgg" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CognigentCodeChallenge" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CognigentCodeChallenge" type="462c0819:PsiDirectoryNode" />
-              <item name="NewEgg" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CognigentCodeChallenge" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CognigentCodeChallenge" type="462c0819:PsiDirectoryNode" />
-              <item name="NewEgg" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="pages" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CognigentCodeChallenge" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CognigentCodeChallenge" type="462c0819:PsiDirectoryNode" />
-              <item name="NewEgg" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CognigentCodeChallenge" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CognigentCodeChallenge" type="462c0819:PsiDirectoryNode" />
-              <item name="NewEgg" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1571546539543" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1571629929066" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -276,51 +234,11 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.TestLogin.testSearchItem">
-    <configuration name="MainAPI.setUp" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="NewEgg" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="base.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="base" />
-      <option name="MAIN_CLASS_NAME" value="base.MainAPI" />
-      <option name="METHOD_NAME" value="setUp" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TestLogin" type="TestNG" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="TestNG.TestCompleteShopping.testLogout">
+    <configuration name="TestCompleteShopping.testLoginAccount" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="NewEgg" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="TestLogin" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TestLogin.TestLoginAccount" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="NewEgg" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="TestLogin" />
-      <option name="METHOD_NAME" value="TestLoginAccount" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TestLogin.testLoginAccount" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="NewEgg" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="TestLogin" />
+      <option name="MAIN_CLASS_NAME" value="TestCompleteShopping" />
       <option name="METHOD_NAME" value="testLoginAccount" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
@@ -329,11 +247,47 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestLogin.testSearchItem" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="TestCompleteShopping.testLogout" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="NewEgg" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="TestLogin" />
+      <option name="MAIN_CLASS_NAME" value="TestCompleteShopping" />
+      <option name="METHOD_NAME" value="testLogout" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestCompleteShopping.testRemoveItems" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="NewEgg" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestCompleteShopping" />
+      <option name="METHOD_NAME" value="testRemoveItems" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestCompleteShopping.testSearchItem" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="NewEgg" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestCompleteShopping" />
       <option name="METHOD_NAME" value="testSearchItem" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestCompleteShopping.textContinueToBilling" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="NewEgg" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestCompleteShopping" />
+      <option name="METHOD_NAME" value="textContinueToBilling" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -343,11 +297,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.TestLogin.testSearchItem" />
-        <item itemvalue="TestNG.TestLogin.testLoginAccount" />
-        <item itemvalue="TestNG.TestLogin" />
-        <item itemvalue="TestNG.MainAPI.setUp" />
-        <item itemvalue="TestNG.TestLogin.TestLoginAccount" />
+        <item itemvalue="TestNG.TestCompleteShopping.testLogout" />
+        <item itemvalue="TestNG.TestCompleteShopping.textContinueToBilling" />
+        <item itemvalue="TestNG.TestCompleteShopping.testRemoveItems" />
+        <item itemvalue="TestNG.TestCompleteShopping.testSearchItem" />
+        <item itemvalue="TestNG.TestCompleteShopping.testLoginAccount" />
       </list>
     </recent_temporary>
   </component>
@@ -365,59 +319,58 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="TestLogin_testSearchItem - 2019.10.19 at 23h 13m 10s.xml">
-      <configuration name="TestLogin.testSearchItem" configurationId="TestNG" />
+    <history-entry file="TestLogin_testLogout - 2019.10.20 at 22h 15m 20s.xml">
+      <configuration name="TestLogin.testLogout" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="TestLogin_testSearchItem - 2019.10.19 at 23h 16m 22s.xml">
-      <configuration name="TestLogin.testSearchItem" configurationId="TestNG" />
+    <history-entry file="TestLogin_testLogout - 2019.10.20 at 22h 18m 00s.xml">
+      <configuration name="TestLogin.testLogout" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="TestLogin_testSearchItem - 2019.10.19 at 23h 19m 46s.xml">
-      <configuration name="TestLogin.testSearchItem" configurationId="TestNG" />
+    <history-entry file="TestLogin_testLogout - 2019.10.20 at 22h 20m 37s.xml">
+      <configuration name="TestLogin.testLogout" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="TestLogin_testSearchItem - 2019.10.19 at 23h 23m 04s.xml">
-      <configuration name="TestLogin.testSearchItem" configurationId="TestNG" />
+    <history-entry file="TestLogin_testLogout - 2019.10.20 at 22h 23m 27s.xml">
+      <configuration name="TestLogin.testLogout" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="TestLogin_testSearchItem - 2019.10.19 at 23h 38m 12s.xml">
-      <configuration name="TestLogin.testSearchItem" configurationId="TestNG" />
+    <history-entry file="TestLogin_testLogout - 2019.10.20 at 22h 25m 48s.xml">
+      <configuration name="TestLogin.testLogout" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="TestLogin_testSearchItem - 2019.10.20 at 00h 09m 04s.xml">
-      <configuration name="TestLogin.testSearchItem" configurationId="TestNG" />
+    <history-entry file="TestLogin_testLogout - 2019.10.20 at 22h 28m 54s.xml">
+      <configuration name="TestLogin.testLogout" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="TestLogin_testSearchItem - 2019.10.20 at 00h 16m 47s.xml">
-      <configuration name="TestLogin.testSearchItem" configurationId="TestNG" />
+    <history-entry file="TestLogin_testLogout - 2019.10.20 at 22h 32m 14s.xml">
+      <configuration name="TestLogin.testLogout" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="TestLogin_testSearchItem - 2019.10.20 at 00h 24m 39s.xml">
-      <configuration name="TestLogin.testSearchItem" configurationId="TestNG" />
+    <history-entry file="TestLogin_testLogout - 2019.10.20 at 23h 22m 59s.xml">
+      <configuration name="TestLogin.testLogout" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="TestLogin_testSearchItem - 2019.10.20 at 00h 31m 46s.xml">
-      <configuration name="TestLogin.testSearchItem" configurationId="TestNG" />
+    <history-entry file="TestLogin_testLogout - 2019.10.20 at 23h 24m 12s.xml">
+      <configuration name="TestLogin.testLogout" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="TestLogin_testSearchItem - 2019.10.20 at 00h 38m 49s.xml">
-      <configuration name="TestLogin.testSearchItem" configurationId="TestNG" />
+    <history-entry file="TestLogin_testLogout - 2019.10.20 at 23h 25m 21s.xml">
+      <configuration name="TestLogin.testLogout" configurationId="TestNG" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24966443" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25302014" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" weight="0.3286119" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3286119" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32152975" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32152975" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.3286119" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.3286119" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.3286119" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -429,6 +382,7 @@
     </layout>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/NewEgg/src/main/java/base/Pages.java" />
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="901">
@@ -443,48 +397,118 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/NewEgg/src/main/java/base/Pages.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="18" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/NewEgg/src/main/java/base/MainAPI.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="166">
-          <caret line="24" column="5" lean-forward="true" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
+        <state relative-caret-position="301">
+          <caret line="24" column="5" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/NewEgg/src/test/java/TestLogin.java">
+    <entry file="file://$PROJECT_DIR$/NewEgg/src/test/resources/NewEggRestRunner">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="233">
-          <caret line="25" selection-start-line="25" selection-end-line="25" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#280#281#0" expanded="true" />
-            <element signature="e#347#348#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="34">
+          <caret line="2" column="50" lean-forward="true" selection-start-line="2" selection-start-column="50" selection-end-line="2" selection-end-column="50" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/NewEgg/src/main/java/pages/Login.java">
+    <entry file="file://$PROJECT_DIR$/NewEgg/src/main/java/pages/CompleteShopping.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="253">
-          <caret line="81" lean-forward="true" selection-start-line="81" selection-end-line="81" />
+        <state relative-caret-position="395">
+          <caret line="152" column="26" selection-start-line="152" selection-start-column="26" selection-end-line="152" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NewEgg/src/test/java/TestCompleteShopping.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="205">
+          <caret line="31" column="33" lean-forward="true" selection-start-line="31" selection-start-column="33" selection-end-line="31" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
   </component>
   <component name="masterDetails">
     <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>NewEgg</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
       <state key="ProjectJDKs.UI">
         <settings>
           <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: com.beust:jcommander:1.72</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
